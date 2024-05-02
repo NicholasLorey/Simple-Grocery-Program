@@ -3,4 +3,4 @@ Using Java language to program this project
 
 <b> Purpose: </b>
 
-Our goal is to write a program that uses interfaces, abstraction, inheritance, file io and JUnit testing to process and manage about the technicians working for given company. The company employs both full-time and part-time technicians.
+Our goal is to write a program that stimulate a basic inventory management system for grocery stores where the program takes a valid input from the user and operate the system base on the input.
